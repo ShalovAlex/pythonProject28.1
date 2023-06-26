@@ -14,7 +14,7 @@
 
 Результат работы:
 
-1. Тестирование требований, Тест-кейсы и баг-отчеты представлены в гугл-таблице: https://docs.google.com/spreadsheets/d/15_bRnwRjYazeY_O38of8pPxIuTWnatsR/edit?usp=sharing&ouid=108049235031232211561&rtpof=true&sd=true
+1. Тестирование требований, Тест-кейсы и баг-отчеты представлены в гугл-таблице: https://docs.google.com/spreadsheets/d/15mRnAdSkyxVcnpvqc0BjHebU-GOzAZEi/edit?usp=sharing&ouid=102726206547465217148&rtpof=true&sd=true
 2. Проведено ручное и автоматизированное тестирование с использованием PyTest и Selenium
 
 3. Для составления и написания тест-кейсов применены техники тест-дизайна: классы эквивалентности, анализ граничных значений, предугадывание ошибок.
@@ -25,7 +25,7 @@
 
 В файле settings.py - регистрационные данные для позитивных тестов авторизации
 
-В файле tests_SF_RT_passport.py - автотесты. Все тесты помечены номером, который совпадает с номером тест-кейса в файле: https://docs.google.com/spreadsheets/d/15_bRnwRjYazeY_O38of8pPxIuTWnatsR/edit?usp=sharing&ouid=108049235031232211561&rtpof=true&sd=true
+В файле tests_SF_RT_passport.py - автотесты. Все тесты помечены номером, который совпадает с номером тест-кейса в файле: https://docs.google.com/spreadsheets/d/15mRnAdSkyxVcnpvqc0BjHebU-GOzAZEi/edit?usp=sharing&ouid=102726206547465217148&rtpof=true&sd=true
 
 запуск автотестов (драйвер в одной папке с тест-скриптом)
 
